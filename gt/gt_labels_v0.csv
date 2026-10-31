@@ -1,0 +1,91 @@
+video_id,domain,sub_category,duration_bucket,duration_sec,fps,resolution,has_audio,has_subtitles,n_questions,video_path,gt_class,gt_source,needs_signal_check,notes
+026dzf-vc5g,Artistic Performance,Acrobatics,short,63.739,29.97,1280x720,True,False,3,data/videos/026dzf-vc5g.mp4,3_high_motion,subcat_map,False,
+1NYQf_OXDqI,Film & Television,Animation,long,3552.142,23.976,1280x714,True,True,3,data/videos/1NYQf_OXDqI.mp4,4_narrative,subcat_map,False,
+27YZLpw0M98,Life Record,Travel,short,102.052,25.0,1280x720,True,True,3,data/videos/27YZLpw0M98.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+2QTiAmvygC4,Artistic Performance,Stage Play,short,86.123,29.97,1280x720,True,True,3,data/videos/2QTiAmvygC4.mp4,4_narrative,subcat_map,False,
+2gFxZmb0dMo,Life Record,Travel,short,75.326,23.976,1280x720,True,True,3,data/videos/2gFxZmb0dMo.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+2iHmlBmLKUE,Life Record,Fashion,short,67.524,25.0,1280x720,True,True,3,data/videos/2iHmlBmLKUE.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+3EQLFHRHpag,Film & Television,Documentary,medium,746.011,25.0,1280x720,True,True,3,data/videos/3EQLFHRHpag.mp4,1_conversational,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+3EQzRz-V7uE,Life Record,Handicraft,medium,512.906,30.0,1280x720,True,False,3,data/videos/3EQzRz-V7uE.mp4,2_info_dense,subcat_map,False,
+4qYqPmIO0v0,Sports Competition,Basketball,long,3274.432,29.839,1280x720,True,True,3,data/videos/4qYqPmIO0v0.mp4,3_high_motion,subcat_map,False,
+5LU_XY0z2ZY,Knowledge,Biology & Medicine,long,1955.933,29.97,1280x720,True,True,3,data/videos/5LU_XY0z2ZY.mp4,2_info_dense,subcat_map,False,
+5i5Be73ESUc,Life Record,Daily Life,long,1843.85,30.0,1280x720,True,True,3,data/videos/5i5Be73ESUc.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+6DbsOZU8mBM,Life Record,Food,medium,893.063,29.97,1280x720,True,True,3,data/videos/6DbsOZU8mBM.mp4,2_info_dense,subcat_map,False,
+7fnVcXfPe5c,Knowledge,Life Tip,medium,276.062,25.0,640x360,True,True,3,data/videos/7fnVcXfPe5c.mp4,2_info_dense,subcat_map,False,
+7iXM5aq53Ts,Knowledge,Life Tip,short,98.685,29.97,1280x720,True,True,3,data/videos/7iXM5aq53Ts.mp4,2_info_dense,subcat_map,False,
+8TNPeimqOO0,Knowledge,Geography,short,109.714,29.97,1280x720,True,True,3,data/videos/8TNPeimqOO0.mp4,2_info_dense,subcat_map,False,
+913JhnW28U4,Sports Competition,Athletics,short,57.609,25.0,1280x720,True,True,3,data/videos/913JhnW28U4.mp4,3_high_motion,subcat_map,False,
+9v9NHoTXc-Q,Life Record,Fashion,short,56.726,25.0,1280x720,True,True,3,data/videos/9v9NHoTXc-Q.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+A30IuIjQYYg,Life Record,Travel,medium,250.892,25.0,1280x720,True,True,3,data/videos/A30IuIjQYYg.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+ACvLYz9nHvg,Sports Competition,Basketball,medium,660.747,30.0,1280x720,True,False,3,data/videos/ACvLYz9nHvg.mp4,3_high_motion,subcat_map,False,
+Cb91B0wZYLE,Artistic Performance,Magic Show,long,2016.63,29.97,1280x720,True,True,3,data/videos/Cb91B0wZYLE.mp4,4_narrative,subcat_map,False,
+D0ZMmQjKn2Q,Artistic Performance,Magic Show,long,2513.165,25.0,640x360,True,True,3,data/videos/D0ZMmQjKn2Q.mp4,4_narrative,subcat_map,False,
+DF_J3vCcbBA,Knowledge,Geography,short,93.437,23.976,1280x720,True,False,3,data/videos/DF_J3vCcbBA.mp4,2_info_dense,subcat_map,False,
+DfZIv2FKWj4,Sports Competition,Other Sports,medium,385.451,25.0,1280x720,True,True,3,data/videos/DfZIv2FKWj4.mp4,3_high_motion,subcat_map,False,
+ElWG0_kjy_Y,Knowledge,Literature & Art,long,1973.394,29.97,1280x720,True,True,3,data/videos/ElWG0_kjy_Y.mp4,1_conversational,subcat_map,False,
+FkrIcmXvv18,Artistic Performance,Stage Play,long,3057.441,23.976,1280x720,True,True,3,data/videos/FkrIcmXvv18.mp4,4_narrative,subcat_map,False,
+FlcVBKTSjRs,Life Record,Handicraft,short,52.106,29.97,1280x720,True,True,3,data/videos/FlcVBKTSjRs.mp4,2_info_dense,subcat_map,False,
+G267g0DpCVg,Film & Television,Movie & TV Show,short,60.024,23.976,1280x676,True,True,3,data/videos/G267g0DpCVg.mp4,4_narrative,subcat_map,False,
+HK13nVxBYxI,Film & Television,News Report,medium,412.177,25.0,1280x720,True,True,3,data/videos/HK13nVxBYxI.mp4,1_conversational,subcat_map,False,
+IaTaaNinolU,Knowledge,Literature & Art,medium,477.751,29.97,1280x720,True,True,3,data/videos/IaTaaNinolU.mp4,1_conversational,subcat_map,False,
+J5Npf2xJpag,Knowledge,Finance & Commerce,long,2117.753,24.0,1280x720,True,True,3,data/videos/J5Npf2xJpag.mp4,1_conversational,subcat_map,False,
+K0mjUgHKfJo,Knowledge,Geography,short,108.925,29.97,640x360,True,True,3,data/videos/K0mjUgHKfJo.mp4,2_info_dense,subcat_map,False,
+K7YNoRZMv2k,Life Record,Fashion,long,1838.208,30.0,1280x720,True,True,3,data/videos/K7YNoRZMv2k.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+KlbDo9o5SC8,Sports Competition,Football,medium,755.508,30.0,1280x720,True,True,3,data/videos/KlbDo9o5SC8.mp4,3_high_motion,subcat_map,False,
+LCfBYE97rFk,Knowledge,Literature & Art,long,2456.718,23.976,1280x720,True,True,3,data/videos/LCfBYE97rFk.mp4,1_conversational,subcat_map,False,
+LlajSKnbcGk,Sports Competition,Esports,short,40.821,30.0,1280x720,True,True,3,data/videos/LlajSKnbcGk.mp4,3_high_motion,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+Lv7cYKTYE2g,Multilingual,Multilingual,short,76.417,25.0,1280x720,True,True,3,data/videos/Lv7cYKTYE2g.mp4,1_conversational,subcat_map,False,
+M69Sn3OERZo,Film & Television,Animation,short,47.02,30.0,1280x720,True,False,3,data/videos/M69Sn3OERZo.mp4,4_narrative,subcat_map,False,
+MPfuSfiZ96A,Film & Television,Documentary,short,77.926,25.0,1280x720,True,True,3,data/videos/MPfuSfiZ96A.mp4,1_conversational,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+MaAv2IVzqhM,Knowledge,Astronomy,medium,315.954,29.97,1280x720,True,True,3,data/videos/MaAv2IVzqhM.mp4,2_info_dense,subcat_map,False,
+NEFG7YcIDcI,Knowledge,Geography,short,96.943,29.97,1280x720,True,True,3,data/videos/NEFG7YcIDcI.mp4,2_info_dense,subcat_map,False,
+NeLj-gLWgug,Life Record,Daily Life,medium,352.27,23.976,1280x720,True,True,3,data/videos/NeLj-gLWgug.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+O7zcPvQDIMU,Knowledge,Humanity & History,long,2795.683,25.0,1280x720,True,True,3,data/videos/O7zcPvQDIMU.mp4,1_conversational,subcat_map,False,
+OGQ7KwUXuBk,Life Record,Fashion,short,116.007,23.976,1280x720,True,True,3,data/videos/OGQ7KwUXuBk.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+P69idA8JO98,Artistic Performance,Stage Play,long,2002.442,29.97,640x360,True,True,3,data/videos/P69idA8JO98.mp4,4_narrative,subcat_map,False,
+QrmxMNBhH2Q,Film & Television,Documentary,medium,605.971,30.0,1280x720,True,False,3,data/videos/QrmxMNBhH2Q.mp4,1_conversational,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+QxYHkKLaFmY,Film & Television,Movie & TV Show,medium,588.997,29.97,1280x720,True,True,3,data/videos/QxYHkKLaFmY.mp4,4_narrative,subcat_map,False,
+Qyg_91gNHCc,Knowledge,Geography,short,116.309,24.0,1280x720,True,True,3,data/videos/Qyg_91gNHCc.mp4,2_info_dense,subcat_map,False,
+RU8IfXp7LbE,Life Record,Daily Life,short,72.98,29.97,1280x720,True,True,3,data/videos/RU8IfXp7LbE.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+RgJVug6iNs8,Artistic Performance,Stage Play,long,2873.377,29.97,1280x720,True,True,3,data/videos/RgJVug6iNs8.mp4,4_narrative,subcat_map,False,
+RwdvZLz-aSk,Sports Competition,Football,long,2092.652,25.0,1280x720,True,True,3,data/videos/RwdvZLz-aSk.mp4,3_high_motion,subcat_map,False,
+S8w44Tl5atk,Sports Competition,Esports,long,2122.954,30.0,1280x720,True,True,3,data/videos/S8w44Tl5atk.mp4,3_high_motion,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+SB4NLADmT_k,Sports Competition,Athletics,long,2306.276,29.97,1280x720,True,True,3,data/videos/SB4NLADmT_k.mp4,3_high_motion,subcat_map,False,
+SBssmtYTJpM,Sports Competition,Athletics,medium,397.572,25.0,1280x720,True,False,3,data/videos/SBssmtYTJpM.mp4,3_high_motion,subcat_map,False,
+UIX6f0xMQ2U,Sports Competition,Athletics,medium,357.727,25.0,1280x720,True,True,3,data/videos/UIX6f0xMQ2U.mp4,3_high_motion,subcat_map,False,
+URUJD5NEXC8,Knowledge,Biology & Medicine,medium,441.342,30.0,1280x720,True,True,3,data/videos/URUJD5NEXC8.mp4,2_info_dense,subcat_map,False,
+Xjf5N9S3jAA,Sports Competition,Other Sports,long,2845.652,25.0,1280x720,True,True,3,data/videos/Xjf5N9S3jAA.mp4,3_high_motion,subcat_map,False,
+YPaLGP_xr-w,Knowledge,Literature & Art,short,104.118,23.976,1280x720,True,True,3,data/videos/YPaLGP_xr-w.mp4,1_conversational,subcat_map,False,
+YlAefotZNAc,Film & Television,News Report,short,103.724,25.0,1280x720,True,True,3,data/videos/YlAefotZNAc.mp4,1_conversational,subcat_map,False,
+YtAL8y2lACs,Knowledge,Geography,long,2839.94,29.97,640x360,True,True,3,data/videos/YtAL8y2lACs.mp4,2_info_dense,subcat_map,False,
+ZQIZx5Oqw88,Sports Competition,Athletics,medium,623.015,25.0,1280x720,True,True,3,data/videos/ZQIZx5Oqw88.mp4,3_high_motion,subcat_map,False,
+_qepWb_NVj4,Knowledge,Geography,medium,460.266,29.97,1280x720,True,True,3,data/videos/_qepWb_NVj4.mp4,2_info_dense,subcat_map,False,
+_w4XRiUVfY4,Artistic Performance,Stage Play,medium,740.159,23.976,640x360,True,False,3,data/videos/_w4XRiUVfY4.mp4,4_narrative,subcat_map,False,
+a7jZszvFpTY,Artistic Performance,Acrobatics,medium,355.939,29.97,1280x720,True,True,3,data/videos/a7jZszvFpTY.mp4,3_high_motion,subcat_map,False,
+a8IGDMrohnY,Artistic Performance,Magic Show,medium,310.52,25.0,1280x720,True,False,3,data/videos/a8IGDMrohnY.mp4,4_narrative,subcat_map,False,
+awHc8IySU-I,Sports Competition,Other Sports,medium,632.721,25.0,1280x720,True,False,3,data/videos/awHc8IySU-I.mp4,3_high_motion,subcat_map,False,
+bepwr1-CNRU,Knowledge,Technology,medium,1080.587,30.0,640x360,True,True,3,data/videos/bepwr1-CNRU.mp4,2_info_dense,subcat_map,False,
+biiLScgI3u4,Life Record,Handicraft,medium,310.149,15.0,640x360,True,True,3,data/videos/biiLScgI3u4.mp4,2_info_dense,subcat_map,False,
+c0siCya457M,Film & Television,News Report,short,108.53,25.0,1280x720,True,True,3,data/videos/c0siCya457M.mp4,1_conversational,subcat_map,False,
+eZ5lFBPpRkM,Life Record,Travel,long,3221.49,29.97,1280x720,True,True,3,data/videos/eZ5lFBPpRkM.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+frX8GujpmkI,Life Record,Fashion,short,60.093,25.0,640x360,True,False,3,data/videos/frX8GujpmkI.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+g7PjwIzqyCQ,Multilingual,Multilingual,short,96.084,29.97,640x360,True,True,3,data/videos/g7PjwIzqyCQ.mp4,1_conversational,subcat_map,False,
+g8UiXbc19og,Sports Competition,Athletics,long,2643.058,25.0,1280x720,True,True,3,data/videos/g8UiXbc19og.mp4,3_high_motion,subcat_map,False,
+gTPHH880Cyc,Sports Competition,Athletics,long,2499.535,25.0,1280x720,True,True,3,data/videos/gTPHH880Cyc.mp4,3_high_motion,subcat_map,False,
+jkNxmTrrZSk,Knowledge,Biology & Medicine,short,102.795,24.0,1280x720,True,True,3,data/videos/jkNxmTrrZSk.mp4,2_info_dense,subcat_map,False,
+lNvBXLbInXE,Life Record,Exercise,medium,728.735,25.0,640x360,True,True,3,data/videos/lNvBXLbInXE.mp4,3_high_motion,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+mOiEOs3ZlT8,Knowledge,Literature & Art,long,2007.063,23.976,1280x720,True,True,3,data/videos/mOiEOs3ZlT8.mp4,1_conversational,subcat_map,False,
+md6mZDhuR9s,Sports Competition,Football,long,3470.454,25.0,1280x720,True,True,3,data/videos/md6mZDhuR9s.mp4,3_high_motion,subcat_map,False,
+ooqdg9Wr-mo,Life Record,Food,medium,485.32,29.97,1280x720,True,True,3,data/videos/ooqdg9Wr-mo.mp4,2_info_dense,subcat_map,False,
+pcm_E7UoKLo,Artistic Performance,Variety Show,short,84.056,25.0,640x360,True,True,3,data/videos/pcm_E7UoKLo.mp4,4_narrative,subcat_map,False,
+qd2ivr-5oEM,Film & Television,News Report,long,2656.502,30.0,1280x720,True,True,3,data/videos/qd2ivr-5oEM.mp4,1_conversational,subcat_map,False,
+uVR-DZQuRbM,Life Record,Fashion,short,89.884,25.0,640x360,True,True,3,data/videos/uVR-DZQuRbM.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+vDzNVHXc66U,Life Record,Handicraft,long,1961.32,30.0,1280x720,True,True,3,data/videos/vDzNVHXc66U.mp4,2_info_dense,subcat_map,False,
+vf3sPa2W0sA,Sports Competition,Athletics,medium,253.074,30.0,1280x720,True,False,3,data/videos/vf3sPa2W0sA.mp4,3_high_motion,subcat_map,False,
+vzfTpidE5wg,Life Record,Daily Life,long,1987.419,29.97,1280x720,True,True,3,data/videos/vzfTpidE5wg.mp4,4_narrative,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+wGfRSojH0PE,Sports Competition,Other Sports,short,99.242,25.0,1280x720,True,True,3,data/videos/wGfRSojH0PE.mp4,3_high_motion,subcat_map,False,
+x-ccfWcbht4,Life Record,Fashion,medium,871.724,23.976,1280x720,True,True,3,data/videos/x-ccfWcbht4.mp4,2_info_dense,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+xKiRmesHWIA,Knowledge,Humanity & History,long,1896.002,25.0,1280x720,True,True,3,data/videos/xKiRmesHWIA.mp4,1_conversational,subcat_map,False,
+xvQOEdwAgj0,Sports Competition,Esports,long,2468.304,29.97,1280x720,True,True,3,data/videos/xvQOEdwAgj0.mp4,3_high_motion,subcat_map,True,"provisional: ambiguous sub_category, pending signal check"
+y9Fne3oUwX4,Life Record,Food,long,3473.009,25.0,1280x720,True,True,3,data/videos/y9Fne3oUwX4.mp4,2_info_dense,subcat_map,False,
+zIbNJCSCEjk,Knowledge,Finance & Commerce,medium,606.273,23.976,1280x720,True,True,3,data/videos/zIbNJCSCEjk.mp4,1_conversational,subcat_map,False,

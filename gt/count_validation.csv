@@ -1,0 +1,29 @@
+domain,sub_category,expected_videos,found_videos,expected_questions,found_questions,match
+Artistic Performance,Acrobatics,2,2,6,6,True
+Artistic Performance,Magic Show,3,3,9,9,True
+Artistic Performance,Stage Play,5,5,15,15,True
+Artistic Performance,Variety Show,1,1,3,3,True
+Film & Television,Animation,2,2,6,6,True
+Film & Television,Documentary,3,3,9,9,True
+Film & Television,Movie & TV Show,2,2,6,6,True
+Film & Television,News Report,4,4,12,12,True
+Knowledge,Astronomy,1,1,3,3,True
+Knowledge,Biology & Medicine,3,3,9,9,True
+Knowledge,Finance & Commerce,2,2,6,6,True
+Knowledge,Geography,7,7,21,21,True
+Knowledge,Humanity & History,2,2,6,6,True
+Knowledge,Life Tip,2,2,6,6,True
+Knowledge,Literature & Art,5,5,15,15,True
+Knowledge,Technology,1,1,3,3,True
+Life Record,Daily Life,4,4,12,12,True
+Life Record,Exercise,1,1,3,3,True
+Life Record,Fashion,7,7,21,21,True
+Life Record,Food,3,3,9,9,True
+Life Record,Handicraft,4,4,12,12,True
+Life Record,Travel,4,4,12,12,True
+Multilingual,Multilingual,2,2,6,6,True
+Sports Competition,Athletics,8,8,24,24,True
+Sports Competition,Basketball,2,2,6,6,True
+Sports Competition,Esports,3,3,9,9,True
+Sports Competition,Football,3,3,9,9,True
+Sports Competition,Other Sports,4,4,12,12,True

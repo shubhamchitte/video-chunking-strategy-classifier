@@ -1,0 +1,23 @@
+video_id,sub_category,gt_class_v0,5feat_m0.7_class,5feat_m0.7_ratio,5feat_m0.7_switched,11feat_m0.8_class,11feat_m0.8_ratio,11feat_m0.8_switched
+27YZLpw0M98,Travel,4_narrative,4_narrative,1.0,False,4_narrative,1.0,False
+2gFxZmb0dMo,Travel,4_narrative,4_narrative,0.768,False,3_high_motion,0.71,True
+2iHmlBmLKUE,Fashion,2_info_dense,2_info_dense,0.726,False,3_high_motion,0.649,True
+3EQLFHRHpag,Documentary,1_conversational,3_high_motion,0.568,True,3_high_motion,0.688,True
+5i5Be73ESUc,Daily Life,4_narrative,4_narrative,0.768,False,4_narrative,0.982,False
+9v9NHoTXc-Q,Fashion,2_info_dense,4_narrative,0.632,True,4_narrative,0.651,True
+A30IuIjQYYg,Travel,4_narrative,4_narrative,1.0,False,4_narrative,1.0,False
+K7YNoRZMv2k,Fashion,2_info_dense,2_info_dense,0.93,False,2_info_dense,1.0,False
+LlajSKnbcGk,Esports,3_high_motion,3_high_motion,1.0,False,3_high_motion,1.0,False
+MPfuSfiZ96A,Documentary,1_conversational,4_narrative,0.406,True,4_narrative,0.601,True
+NeLj-gLWgug,Daily Life,4_narrative,4_narrative,1.0,False,4_narrative,1.0,False
+OGQ7KwUXuBk,Fashion,2_info_dense,2_info_dense,1.0,False,2_info_dense,1.0,False
+QrmxMNBhH2Q,Documentary,1_conversational,1_conversational,0.705,False,4_narrative,0.695,True
+RU8IfXp7LbE,Daily Life,4_narrative,4_narrative,1.0,False,4_narrative,1.0,False
+S8w44Tl5atk,Esports,3_high_motion,2_info_dense,0.49,True,2_info_dense,0.617,True
+eZ5lFBPpRkM,Travel,4_narrative,4_narrative,0.751,False,3_high_motion,0.796,True
+frX8GujpmkI,Fashion,2_info_dense,4_narrative,0.693,True,4_narrative,0.639,True
+lNvBXLbInXE,Exercise,3_high_motion,2_info_dense,0.503,True,1_conversational,0.459,True
+uVR-DZQuRbM,Fashion,2_info_dense,2_info_dense,0.711,False,4_narrative,0.753,True
+vzfTpidE5wg,Daily Life,4_narrative,4_narrative,0.91,False,4_narrative,0.935,False
+x-ccfWcbht4,Fashion,2_info_dense,2_info_dense,1.0,False,2_info_dense,0.833,False
+xvQOEdwAgj0,Esports,3_high_motion,3_high_motion,1.0,False,3_high_motion,1.0,False

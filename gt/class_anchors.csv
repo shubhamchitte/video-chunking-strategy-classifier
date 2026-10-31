@@ -1,0 +1,5 @@
+gt_class,n_unflagged,speech_coverage,words_per_min,cuts_per_min,motion_mean,motion_p90,global_motion_mean,residual_motion_mean,global_motion_ratio,text_area_mean,text_present_frac,text_persistence,text_area_central
+1_conversational,15,0.9852,155.6568,7.187,2.2176,5.1475,0.6271,1.9869,0.304,0.031,0.5267,0.3235,0.0183
+2_info_dense,21,0.8418,125.3038,6.6879,2.6442,6.29,0.5377,2.3598,0.2323,0.0303,0.5882,0.2481,0.0139
+3_high_motion,19,0.7344,103.9067,5.7,5.0852,10.8755,1.934,4.7437,0.3686,0.017,0.8033,0.0446,0.0119
+4_narrative,13,0.5525,68.5801,17.4,3.23,7.7624,0.6739,3.1706,0.2326,0.0041,0.0903,0.0,0.001
