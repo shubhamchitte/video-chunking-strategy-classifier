@@ -1,0 +1,6 @@
+budget,accuracy,accuracy_std,macro_f1,macro_f1_std,unflagged_acc,cpu_s_per_video_mean,cpu_s_per_video_p95,cpu_s_per_video_hour,long_video_wall_s_1core,cores_10k_h_per_day,d_macro_f1,d_macro_f1_std,folds_better,folds_worse,verdict
+1x30s_2fps,0.4867,0.0368,0.4883,0.038,0.5441,1.4927,2.3216,5.1906,1.81,1.0013,-0.0705,0.0309,7,18,worse
+3x30s_2fps,0.5822,0.0194,0.5767,0.0173,0.6412,4.1116,6.5324,14.2972,4.67,2.758,0.018,0.0306,12,12,within noise
+5x60s_2fps,0.5867,0.0267,0.5829,0.028,0.6588,10.1151,19.6123,35.1731,14.27,6.7849,0.0241,0.0292,14,10,within noise
+10x60s_1fps,0.5289,0.0295,0.525,0.031,0.5735,16.3073,37.8871,56.705,31.51,10.9385,-0.0338,0.0357,9,16,worse
+10x60s_2fps,0.5644,0.0147,0.5588,0.0147,0.6265,16.5216,37.9802,57.45,30.05,11.0822,0.0,0.0,0,0,shipped

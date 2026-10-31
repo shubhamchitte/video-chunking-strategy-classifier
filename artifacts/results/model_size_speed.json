@@ -1,0 +1,11 @@
+{
+ "logreg_json": {
+  "bytes_on_disk": 3191,
+  "inference_ms_per_video": 0.0107
+ },
+ "lightgbm_txt": {
+  "bytes_on_disk": 721460,
+  "inference_ms_per_video": 0.2468
+ },
+ "lightgbm_pickle_bytes": 723420
+}

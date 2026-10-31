@@ -1,0 +1,17 @@
+gt_class,chunker,n,sane_coverage,giant_time,fragment_chunks,chunks_per_min,median_len,empty_videos,empty_window_rate_all90,own_chunker
+1_conversational,action_peak,7,0.9751,0.0,0.0297,6.7559,7.5,0.0,0.0056,False
+1_conversational,keyframe,7,0.5212,0.0,0.0061,14.6542,2.0,0.0,0.0778,False
+1_conversational,shot,7,0.6308,0.1077,0.1494,8.5177,6.68,0.1429,0.1444,False
+1_conversational,transcript,7,0.7146,0.2809,0.0,0.5941,104.118,0.7143,0.6333,True
+2_info_dense,action_peak,18,0.9784,0.0,0.0203,6.5687,8.0,0.0,0.0,False
+2_info_dense,keyframe,18,0.4848,0.0337,0.0297,15.1406,2.0,0.0,0.0222,True
+2_info_dense,shot,18,0.6348,0.0744,0.2203,11.6235,5.2853,0.0556,0.0556,False
+2_info_dense,transcript,18,0.7982,0.2018,0.0,1.2622,51.9025,0.3889,0.4704,False
+3_high_motion,action_peak,9,0.9676,0.0,0.0043,6.6259,8.0,0.0,0.0048,True
+3_high_motion,keyframe,9,0.2755,0.0,0.0271,21.9923,2.0,0.0,0.0,False
+3_high_motion,shot,9,0.6822,0.0,0.2682,12.841,5.58,0.0,0.0857,False
+3_high_motion,transcript,9,0.9978,0.0,0.0,1.9696,29.5,0.2222,0.3571,False
+4_narrative,action_peak,14,0.9772,0.0,0.0089,6.7268,8.0,0.0,0.025,False
+4_narrative,keyframe,14,0.553,0.1541,0.0227,9.1875,2.75,0.1429,0.2667,False
+4_narrative,shot,14,0.3265,0.0,0.5384,25.2193,1.7638,0.0,0.0708,True
+4_narrative,transcript,14,0.9229,0.0714,0.0,1.8991,28.1865,0.1429,0.2042,False

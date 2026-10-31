@@ -1,0 +1,118 @@
+{
+ "merged_conv_info": {
+  "logreg": {
+   "accuracy": 0.7,
+   "macro_f1": 0.6738
+  },
+  "lightgbm": {
+   "accuracy": 0.6778,
+   "macro_f1": 0.6663
+  },
+  "majority": {
+   "accuracy": 0.5,
+   "macro_f1": 0.2222
+  },
+  "always_shot_detection": {
+   "accuracy": 0.2667,
+   "macro_f1": 0.1404
+  },
+  "subcat_oracle": {
+   "accuracy": 0.9444,
+   "macro_f1": 0.9443
+  }
+ },
+ "confidence": {
+  "logreg": [
+   {
+    "bin": "[0.0, 0.5)",
+    "share": 0.187,
+    "accuracy": 0.5
+   },
+   {
+    "bin": "[0.5, 0.7)",
+    "share": 0.349,
+    "accuracy": 0.516
+   },
+   {
+    "bin": "[0.7, 1.0]",
+    "share": 0.464,
+    "accuracy": 0.665
+   }
+  ],
+  "lightgbm": [
+   {
+    "bin": "[0.0, 0.5)",
+    "share": 0.018,
+    "accuracy": 0.25
+   },
+   {
+    "bin": "[0.5, 0.7)",
+    "share": 0.122,
+    "accuracy": 0.473
+   },
+   {
+    "bin": "[0.7, 1.0]",
+    "share": 0.86,
+    "accuracy": 0.594
+   }
+  ]
+ },
+ "logreg_top_coefficients": {
+  "1_conversational": [
+   [
+    "edge_std",
+    0.608
+   ],
+   [
+    "static_frac",
+    0.566
+   ],
+   [
+    "flatness_mean",
+    -0.524
+   ]
+  ],
+  "2_info_dense": [
+   [
+    "static_frac",
+    0.903
+   ],
+   [
+    "mod4_energy",
+    0.757
+   ],
+   [
+    "hist_delta_mean",
+    0.557
+   ]
+  ],
+  "3_high_motion": [
+   [
+    "flatness_mean",
+    1.078
+   ],
+   [
+    "static_frac",
+    -1.0
+   ],
+   [
+    "edge_mean",
+    0.903
+   ]
+  ],
+  "4_narrative": [
+   [
+    "mod4_energy",
+    -0.792
+   ],
+   [
+    "hist_delta_mean",
+    -0.77
+   ],
+   [
+    "edge_mean",
+    -0.752
+   ]
+  ]
+ }
+}

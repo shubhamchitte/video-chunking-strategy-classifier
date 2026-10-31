@@ -1,0 +1,10 @@
+{
+ "inference_ms_per_video": {
+  "logreg_json": 0.0099,
+  "lightgbm": 0.2505
+ },
+ "method": "single-row predict_proba, 20 x 90 calls, one process, features precomputed",
+ "model_bytes": {
+  "logreg_json": 3323
+ }
+}

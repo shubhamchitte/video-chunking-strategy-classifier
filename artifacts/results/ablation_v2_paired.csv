@@ -1,0 +1,11 @@
+feature_set,d_macro_f1_mean,d_macro_f1_std_repeats,repeats_better,folds_better,folds_worse,verdict
+v1,0.0,0.0,0,0,0,noise
+v1+A,-0.0313,0.0292,0,10,15,worse
+v1+B,0.0045,0.0099,4,11,8,noise
+v1+C,0.0307,0.0191,4,14,11,better
+v1+D,-0.0203,0.0291,1,9,13,noise
+v1+E,-0.0011,0.0185,2,12,13,noise
+v1+all,0.044,0.0186,5,13,12,better
+v1+best(BC),0.0174,0.0112,4,14,11,noise
+teacher5_nearest_anchor,-0.1148,0.0171,0,3,22,worse
+teacher5_logreg,-0.0649,0.0184,0,8,17,worse
