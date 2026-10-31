@@ -1,0 +1,32 @@
+# Reproducible setup, run and test commands, executed in this order
+# from a fresh checkout.
+# Keep every command non-interactive (no prompts) and idempotent.
+
+setup_commands:
+  - "python3 -m venv venv"
+  - "venv/bin/python -m pip install --upgrade pip"
+  - "venv/bin/python -m pip install -r requirements.txt"
+  # each command calls the venv interpreter by relative path, so no activation is needed
+
+run_commands:
+  - "venv/bin/python src/main.py evaluate"
+  # rebuilds the 5x5 cross-validated results, baselines and analyses from the committed
+  # features (artifacts/features/cheap_features.csv) and labels (gt/gt_labels_v1.csv);
+  # prints a results table and writes artifacts/results/ and artifacts/model/logreg_v1.json.
+  # No videos, GPU or ffmpeg needed.
+  #
+  # Optional, needs ffmpeg/ffprobe on PATH and a video file (not run by default):
+  #   venv/bin/python src/main.py predict --video data/videos/<video_id>.mp4
+  # To fetch the 90 dataset videos (~11.2 GB, local research use only) and recompute features:
+  #   bash src/data/download.sh
+  #   venv/bin/python src/features/cheap.py --jobs 4
+
+test_commands:
+  - "venv/bin/python -m pytest -q"
+  # unit tests (tests/): window schedule, model artifact, routing/fallback, evaluate determinism,
+  # and cheap features + predict on a synthetic video generated with ffmpeg (skipped if ffmpeg is absent)
+
+notes: "CPU-only. Tested end to end with Python 3.9 and 3.14 on macOS; Linux wheels checked for Python 3.10-3.13 (pins in requirements.txt switch on python_version). Requires python3-venv on Debian/Ubuntu (apt install python3-venv). evaluate takes under a minute and needs no videos: it uses the committed feature CSV and labels. predict classifies one raw video and outputs JSON (needs ffmpeg/ffprobe on PATH, analyses 3 x 30 s per video, ~4 CPU-s per video on one core). Tests take ~10 s; ffmpeg-dependent tests skip if ffmpeg is absent. Videos are not in the repo; src/data/download.sh fetches them into ./data/. See docs/ for the write-up."
+  # anything we should know before running this (e.g. "needs a GPU",
+  # "takes about 10 minutes", "expects a sample dataset already present
+  # under data/, see docs/ for where to get it")
