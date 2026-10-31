@@ -1,0 +1,31 @@
+{
+ "schedule": {
+  "n_windows": 3,
+  "window_sec": 30.0,
+  "video_fps": 2.0,
+  "span": [
+   0.05,
+   0.95
+  ],
+  "video_width": 160
+ },
+ "features": [
+  "vad_speech_ratio",
+  "mod4_energy",
+  "flatness_mean",
+  "flatness_std",
+  "rms_db_mean",
+  "rms_db_std",
+  "rms_db_p90",
+  "silence_frac",
+  "onset_rate",
+  "hist_delta_mean",
+  "hist_delta_p90",
+  "hist_jump_rate",
+  "frame_diff_mean",
+  "frame_diff_p90",
+  "static_frac",
+  "edge_mean",
+  "edge_std"
+ ]
+}

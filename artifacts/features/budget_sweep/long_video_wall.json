@@ -1,0 +1,27 @@
+{
+ "1x30s_2fps": {
+  "analysed_sec": 30.0,
+  "cpu_sec": 1.89,
+  "wall_sec": 1.81
+ },
+ "3x30s_2fps": {
+  "analysed_sec": 90.0,
+  "cpu_sec": 4.98,
+  "wall_sec": 4.67
+ },
+ "5x60s_2fps": {
+  "analysed_sec": 300.0,
+  "cpu_sec": 15.33,
+  "wall_sec": 14.27
+ },
+ "10x60s_1fps": {
+  "analysed_sec": 600.0,
+  "cpu_sec": 31.2,
+  "wall_sec": 31.51
+ },
+ "10x60s_2fps": {
+  "analysed_sec": 600.0,
+  "cpu_sec": 31.42,
+  "wall_sec": 30.05
+ }
+}
