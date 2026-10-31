@@ -1,0 +1,12 @@
+# Offline teacher-signal pipeline (src/teacher/). macOS / Apple Silicon only:
+# mlx-whisper needs Apple MLX and ocrmac needs the Apple Vision framework.
+# Not used by the graded classifier; see requirements.txt for that.
+# Tested with Python 3.12. Also needs ffmpeg/ffprobe on PATH.
+mlx-whisper==0.4.3
+ocrmac==1.0.1
+opencv-python-headless==5.0.0.93
+scenedetect==0.7.2
+pandas==3.0.6
+pyarrow==26.0.0
+matplotlib==3.11.2
+numpy==2.5.4

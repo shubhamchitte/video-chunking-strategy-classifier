@@ -1,0 +1,11 @@
+# Experiments only (src/experiments/, src/features/cheap_v2.py, budget_sweep.py). NOT used by run.yaml / the graded path.
+# cheap_v2.py group B needs OpenCV's Haar CascadeClassifier, removed in OpenCV 5, hence 4.12 + numpy < 2.3.
+# downstream_validity.py and keyframe validation read the teacher cache (parquet). Tested with Python 3.12.
+numpy==2.2.6
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.0.6
+pyarrow==26.0.0
+opencv-python-headless==4.12.0.88
+lightgbm==4.7.0
+matplotlib==3.10.7
